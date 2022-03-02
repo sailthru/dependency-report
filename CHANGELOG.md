@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/sailthru/dependency-report/compare/v1.3.1...v1.4.0) (2022-03-02)
+
+
+### Features
+
+* read consumer package.json ([d535b18](https://github.com/sailthru/dependency-report/commit/d535b18c11898ccdf33c342d2ccd1cc96026b0d7))
+
 ## [1.3.1](https://github.com/sailthru/dependency-report/compare/v1.3.0...v1.3.1) (2022-03-02)
 
 
