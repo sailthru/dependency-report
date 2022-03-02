@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/sailthru/dependency-report/compare/v1.2.1...v1.3.0) (2022-03-02)
+
+
+### Features
+
+* added outfile ([948f2d9](https://github.com/sailthru/dependency-report/commit/948f2d9073bd03c6ec0bedd6004a38a974547c8c))
+
 ## [1.2.1](https://github.com/sailthru/dependency-report/compare/v1.2.0...v1.2.1) (2022-03-02)
 
 

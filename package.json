@@ -1,6 +1,6 @@
 {
   "name": "@sailthru/dependency-report",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Generate usage reports for JS dependencies through an AST",
   "author": "Jeroen Ransijn (https://twitter.com/Jeroen_Ransijn)",
   "keywords": [
