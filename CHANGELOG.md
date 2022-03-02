@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/sailthru/dependency-report/compare/v1.3.0...v1.3.1) (2022-03-02)
+
+
+### Bug Fixes
+
+* always log result ([44db6cb](https://github.com/sailthru/dependency-report/commit/44db6cb41efb3245a15dab418105b2617e990b4b))
+
 # [1.3.0](https://github.com/sailthru/dependency-report/compare/v1.2.1...v1.3.0) (2022-03-02)
 
 
