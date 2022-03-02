@@ -26,6 +26,7 @@
   ],
   "scripts": {
     "test": "xo && ava",
+    "lint": "xo",
     "release": "semantic-release"
   },
   "engines": {
