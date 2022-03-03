@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/sailthru/dependency-report/compare/v1.4.0...v1.4.1) (2022-03-03)
+
+
+### Bug Fixes
+
+* remove unused code ([239618d](https://github.com/sailthru/dependency-report/commit/239618d53139815d33da20b6b6a38fa48ff8bf3d))
+
 # [1.4.0](https://github.com/sailthru/dependency-report/compare/v1.3.1...v1.4.0) (2022-03-02)
 
 
