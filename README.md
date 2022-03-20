@@ -1,3 +1,7 @@
+# NOTE: Repo has been ARCHIVED!!!
+
+This was a POC that was created as part of the Hackdays 2022.
+
 # dependency-report
 
 > Generate usage reports for JavaScript dependencies through an AST.
